@@ -35,3 +35,4 @@ This project presents an interactive Power BI dashboard built for Shield Insuran
 ## 🔗 Resources
 🎧 [Audio Walkthrough](https://youtu.be/fxuBBvFRc7Q)  
 📎 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWZkZmNkMmUtN2UzYi00NWJhLTllZDctMWUyZWE3NDI0MzQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+💻 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7316516139231002624/)
