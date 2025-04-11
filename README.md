@@ -32,6 +32,6 @@ This project presents an interactive Power BI dashboard built for Shield Insuran
 - `Shield_Insurance_Ppt` – Dashboard Previews
 - `Shield_Insurance_Mockup.pdf` – Design Reference
 
-## 🔗 Links
-- 🎧 [Audio Walkthrough](#https://youtu.be/fxuBBvFRc7Q)
-- 📎 [Live Dashboard](#https://app.powerbi.com/view?r=eyJrIjoiZWZkZmNkMmUtN2UzYi00NWJhLTllZDctMWUyZWE3NDI0MzQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## 🔗 Resources
+🎧 [Audio Walkthrough](https://youtu.be/fxuBBvFRc7Q)  
+📎 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWZkZmNkMmUtN2UzYi00NWJhLTllZDctMWUyZWE3NDI0MzQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
